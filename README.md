@@ -20,6 +20,11 @@ The password strength checker is a simple Java program that determines the stren
 
 To use the password strength checker, simply run the program and enter a password when prompted. The program will then output the strength score and a message indicating whether the password is weak, medium, or strong.
 
+
+# Screenshot 
+
+![Screenshot (3)](https://user-images.githubusercontent.com/97894151/234805173-207736cc-29db-45bf-bb3a-7f4c53746003.png)
+
 # Improvements
 
 While the password strength checker provides a simple way to determine the strength of a password, there are several ways in which it could be improved:
